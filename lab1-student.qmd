@@ -66,6 +66,11 @@ section (e.g., Tooth Growth Dataset).
 #| echo: true
 #| label: creating-a-plot
 
+#| layout-ncol: 2
+#| fig-cap: 
+#|   - "Supplement Compared to Length of Teeth"
+#|   - "Dose of Supplement Compared to Length of Teeth"
+
 library(tidyverse)
 
 ggplot(data = ToothGrowth, 
