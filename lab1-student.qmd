@@ -8,6 +8,7 @@ embed-resources: true
 code-fold: true
 toc: true
 toc-depth: 2
+theme: cyborg
 execute: 
   output: true
   error: true
