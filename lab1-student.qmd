@@ -67,6 +67,7 @@ section (e.g., Tooth Growth Dataset).
 #| label: creating-a-plot
 
 #| layout-ncol: 2
+#| fig-align: "left"
 #| fig-cap: 
 #|   - "Supplement Compared to Length of Teeth"
 #|   - "Dose of Supplement Compared to Length of Teeth"
